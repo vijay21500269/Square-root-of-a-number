@@ -31,7 +31,7 @@ number=int(input())
 print('Square root of the number:',newlin_method(number))
 
 ## Output:
-![gcd of two number](gcd.png)
+![gcd of two number](https://github.com/vijay21500269/Square-root-of-a-number/blob/main/Screenshot%20(3).png?raw=true)
 
 
 ## Result:
