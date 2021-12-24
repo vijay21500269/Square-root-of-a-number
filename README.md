@@ -22,6 +22,7 @@ Developed by: R.Vijay
 RegisterNumber:  21500269
 */
 ```
+~~~
 def newlin_method(number,number_iter=100):
     b=float(number)
     for i in range(number_iter):
@@ -29,7 +30,7 @@ def newlin_method(number,number_iter=100):
     return number
 number=int(input())
 print('Square root of the number:',newlin_method(number))
-
+~~~
 ## Output:
 ![gcd of two number](https://github.com/vijay21500269/Square-root-of-a-number/blob/main/Screenshot%20(3).png?raw=true)
 
